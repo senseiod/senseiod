@@ -1,16 +1,21 @@
-### Hi there 👋
+## About Me
 
-<!--
-**senseiod/senseiod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm 青藤木子(moyan).
 
-Here are some ideas to get you started:
+I am trying to develop an operating system, temporarily called Nitrogen OS, which is currently private and will be made public soon.
+In addition, I am building an AOSP for redmi note 10 Pro 5g (poco X3 GT).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+### Other information
+
+- Citizenship: China
+- Born: 2001/10/05
+
+### Get in touch
+
+Reach me at:
+
+- E-mail: <moyan@iouyi.top>
+- Web blog: [@moyan](https://www.iouyi.top)
