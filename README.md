@@ -3,6 +3,7 @@
 Hi, I'm 青藤木子(moyan).
 
 I am trying to develop an operating system, temporarily called Nitrogen OS, which is currently private and will be made public soon.
+
 In addition, I am building an AOSP for redmi note 10 Pro 5g (poco X3 GT).
 
 
