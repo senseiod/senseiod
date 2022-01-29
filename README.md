@@ -23,4 +23,4 @@ Reach me at:
 
 
 
-<p aligh="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s1nker&show_icons=true&locale=en" alt="senseiod" /></p>
+<p aligh="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=senseiod&show_icons=true&locale=en" alt="senseiod" /></p>
